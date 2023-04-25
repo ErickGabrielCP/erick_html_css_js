@@ -1,0 +1,28 @@
+
+        /*Exemplo Seletor pela TAG*/
+        h1{
+            color: darkgreen;
+            font-family: impact;
+            text-align: center;
+        }
+
+         /*Exemplo Seletor pela TAG*/
+        p{
+            color: darkslateblue;
+            font-family: arial;
+            text-align: justify;
+        }
+        
+        /*Exemplo de seletor pelo ID*/
+        #titulo{
+            color: deepskyblue;
+        }
+
+        /*Exemplo de seletor pela class*/
+        .texto_conteudo{
+            font-family: verdana;
+            font-size: 20px;
+            color: fuchsia;
+            font-weight: bold;
+        }
+
